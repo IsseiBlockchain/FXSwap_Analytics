@@ -1,6 +1,6 @@
 # FXSwap Info
 
-Analytics site for the [FXSwap Protocol](https://fx-swap.io/).
+Backend Analytics for the [FXSwap Protocol](https://fx-swap.io/).
 
 Includes support for FXSwap.
 
