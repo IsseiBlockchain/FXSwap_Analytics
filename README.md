@@ -1,6 +1,6 @@
 # FXSwap Info
 
-Backend Analytics for the [FXSwap Protocol](https://fx-swap.io/).
+Full stack web app for DEX analytics: [FXSwap Protocol](https://fx-swap.io/).
 
 Includes support for FXSwap.
 
