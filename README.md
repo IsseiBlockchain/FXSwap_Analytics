@@ -5,7 +5,7 @@ This app uses subgraph (web3 Graph protocol) for GraphQL API development - block
 
 Includes support for FXSwap.
 
-### To Start Development
+### How to Install
 
 ###### Installing dependencies
 
