@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/info",
+  "name": "fxswap/info",
   "private": true,
   "homepage": "https://app.fx-swap.io/home",
   "devDependencies": {
